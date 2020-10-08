@@ -41,7 +41,7 @@ The gateway to our code is the main.py file. It takes one command line argument 
     - Weather data from the considered airport
 
 
-- **Code eliverables:** Code should include:
+- **Code deliverables:** Code should include:
     - Your feature engineering code specifying how you modified your data and why (make sure to clearly comment your code to explain why you processed the data the way you chose to)
     - Your models’ parametrization, training code and testing code
 
